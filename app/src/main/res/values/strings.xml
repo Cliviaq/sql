@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TalkToday</string>
+    <string name="tab_text_1">calls</string>
+    <string name="tab_text_2">sms</string>
+    <string name="tab_text_3">Log</string>
+
+</resources>
